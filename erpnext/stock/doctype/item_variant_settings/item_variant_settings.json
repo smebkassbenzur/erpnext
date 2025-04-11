@@ -19,7 +19,7 @@
   },
   {
    "default": "0",
-   "description": "Fields will be copied over only at time of creation.",
+   "description": "Fields will be copied over only at time of creation.HIER",
    "fieldname": "do_not_update_variants",
    "fieldtype": "Check",
    "label": "Do not update variants on save"
